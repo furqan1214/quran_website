@@ -143,10 +143,10 @@ export default function IslamicBlog() {
                 <span>9 min read</span>
               </div>
               <Link
-                href="/blog/quran-preservation"
+                href="/about"
                 className="inline-block bg-green-600 text-white px-5 py-2 rounded-lg font-medium hover:bg-green-700 transition-colors"
               >
-                Read Full Article
+                Read about us
               </Link>
             </div>
           </div>
