@@ -80,7 +80,6 @@ export default function Header() {
             <div className="hidden md:flex items-center space-x-4">
               <Link
                 href="/demo"
-                onClick={handleDemoClick}
                 className="bg-white text-green-700 border border-green-700 px-4 py-2 rounded-md text-sm font-medium hover:bg-green-50 flex items-center"
               >
                 <FaBookOpen className="mr-2" />
