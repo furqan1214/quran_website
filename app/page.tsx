@@ -14,10 +14,10 @@ export default function Home() {
           </p>
           <div className="flex flex-col sm:flex-row justify-center gap-4">
             <Link 
-              href="/courses" 
+              href="/blog" 
               className="bg-white text-green-700 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition duration-300"
             >
-              Explore Our Curriculum
+              Explore Islamic Blogs
             </Link>
             <Link 
               href="/teachers" 
