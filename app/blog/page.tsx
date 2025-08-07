@@ -170,12 +170,7 @@ export default function IslamicBlog() {
                     <FaCalendarAlt className="mr-1" />
                     <span>{post.date}</span>
                   </div>
-                  <Link
-                    href={`/blog/${post.id}`}
-                    className="text-green-600 hover:text-green-700 font-medium flex items-center"
-                  >
-                    Read <span className="ml-1">→</span>
-                  </Link>
+                  {/* Removed Read link */}
                 </div>
               </div>
             </div>
